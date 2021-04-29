@@ -21,6 +21,7 @@ const {
   
   //--File js
   const {color, bgcolor} = require('./lib/color');
+  const {Derechosignificado} = require('./src/Derechosignificado');
   const {bahasa} = require('./src/bahasa');
   const {negara} = require('./src/kodenegara');
   const {wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, clos } = require('./lib/functions');
