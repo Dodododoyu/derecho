@@ -598,7 +598,7 @@ const {
   ┏━━━━━━━━━━━━━━━━━━━━
   ┃─────〘 Watson bot⚜️ 〙────
   ┃━━━━━━━━━━━━━━━━━━━━
-  ┠⊷️ *${prefix}*
+  ┠⊷️ *${prefix}derechosignificado*
   ┃ 
   ┠⊷️ *${prefix}*
   ┃ 
