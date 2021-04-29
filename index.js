@@ -267,17 +267,17 @@ const {
 			  if (anu.action == 'add') {
 				  num = anu.participants[0]
 				  teks = `Hola @${num.split('@')[0]}
-  Bienvenid@ a 
-  *${mdata.subject}*
-  ────────────────
-  ┏━━━━━━━━━━━━━━━━━━━━
-  ┃──────〘  *Intro* 〙───────
-  ┃━━━━━━━━━━━━━━━━━━━━
-  ┠⊷️ *Nombre* :
-  ┠⊷️ *Edad* :
-  ┠⊷️ *Lugar de nacimiento* :
-  ┠⊷️ *Género* :
-  ┗━━━━━━━━━━━━━━━━━━━━
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   Usa ${prefix}verify para verificarte y poder usar el bot.`
 				  Lxa.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
@@ -597,13 +597,13 @@ const {
   ┏━━━━━━━━━━━━━━━━━━━━
   ┃─────〘 Watson bot⚜️ 〙────
   ┃━━━━━━━━━━━━━━━━━━━━
-  ┠⊷️ *${prefix}Simi (Teks)*
-  ┃ _Simsimi Chat_
-  ┠⊷️ *${prefix}Info*
-  ┃ _Información del bot_
-  ┠⊷️
+  ┠⊷️ *${prefix}*
   ┃ 
-  ┠⊷️
+  ┠⊷️ *${prefix}*
+  ┃ 
+  ┠⊷️ *${prefix}*
+  ┃ 
+  ┠⊷️ *${prefix}*
   ┃ 
   ┠⊷️ *${prefix}Ping*
   ┃ _Velocidad_
@@ -646,7 +646,7 @@ const {
   ┠⊷️ *${prefix}Delete*
   ┃ _Eliminar mensaje del bot_
   ┗━━━━━━━━━━━━━━━━━━━━
-  *〘 FUN 〙*
+  *〘 Utilidades 〙*
   ┏━━━━━━━━━━━━━━━━━━━━
   ┠⊷️ *${prefix}Alay (Texto)*
   ┃ _Font Alay_
@@ -667,15 +667,15 @@ const {
   ┠⊷️ *${prefix}Chatprank (Texto1/Texto2)*
   ┃ _Juntar palabras o fraces_
   ┠⊷️ *${prefix}Itsme*
-  ┃ _Tu perfil_
-  ┠⊷️ *${prefix}Fml*
-  ┃ _Historias de vida_
-  ┠⊷️ *${prefix}Asupan*
-  ┃ _Cronologia_
+  ┃ _Muestra tu número y foto de perfil_
+  ┠⊷️ *${prefix}*
+  ┃ 
+  ┠⊷️ *${prefix}*
+  ┃ 
   ┠⊷️ *${prefix}Tagme*
   ┃ _Mencionarte_
-  ┠⊷️ *${prefix}Fitnah (Menciona a la persona|texto1|texto2)*
-  ┃ _Mensaje falso de una persona_
+  ┠⊷️ *${prefix}*
+  ┃ 
   ┗━━━━━━━━━━━━━━━━━━━━
   *〘 MEDIA 〙*
   ┏━━━━━━━━━━━━━━━━━━━━
@@ -797,16 +797,16 @@ const {
   ┗━━━━━━━━━━━━━━━━━━━━
   *〘 EDUCACIÓN 〙*
   ┏━━━━━━━━━━━━━━━━━━━━
-  ┠⊷️ *${prefix}Brainly (Pregunta)*
-  ┃ _Buscar cosas_
-  ┠⊷️ *${prefix}Wiki (Pregunta)*
-  ┃ _Buscar cosas_
-  ┠⊷️ *${prefix}Kbbi (Pregunta)*
-  ┃ _Diccionario_
-  ┠⊷️ *${prefix}Tl (Texto/code)*
-  ┃ _Traducir_
-  ┠⊷️ *${prefix}Fakta*
-  ┃ _Frase_
+  ┠⊷️ *${prefix}derechosciviles*
+  ┃ _Definiciones_
+  ┠⊷️ 
+  ┃ _
+  ┠⊷️ 
+  ┃ _
+  ┠⊷️ *
+  ┃ 
+  ┠⊷️ 
+  ┃
   ┠⊷️ *${prefix}Kodebahasa*
   ┃ _Codigo de idioma_
   ┠⊷️ *${prefix}Kodenegara*
