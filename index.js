@@ -22,7 +22,6 @@ const {
   //--File js
   const {color, bgcolor} = require('./lib/color');
   const {derechosignificado} = require('./src/derechosignificado');
-  const {bahasa} = require('./src/bahasa');
   const {negara} = require('./src/kodenegara');
   const {wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, clos } = require('./lib/functions');
   const {fetchJson} = require('./lib/fetcher');
@@ -598,7 +597,7 @@ const {
   ┏━━━━━━━━━━━━━━━━━━━━
   ┃─────〘 Watson bot⚜️ 〙────
   ┃━━━━━━━━━━━━━━━━━━━━
-  ┠⊷️ *${prefix}derechosignificado*
+  ┠⊷️ *${prefix}*
   ┃ 
   ┠⊷️ *${prefix}*
   ┃ 
@@ -798,7 +797,7 @@ const {
   ┗━━━━━━━━━━━━━━━━━━━━
   *〘 EDUCACIÓN 〙*
   ┏━━━━━━━━━━━━━━━━━━━━
-  ┠⊷️ *${prefix}derechosciviles*
+  ┠⊷️ *${prefix}derechosignificado*
   ┃ _Definiciones_
   ┠⊷️ 
   ┃ _
